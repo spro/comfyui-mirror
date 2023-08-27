@@ -6,9 +6,11 @@ Node to mirror a latent along the Y (vertical / left to right) or X (horizontal 
 ![example nodes](https://github.com/spro/comfyui-latentmirror/blob/main/examples/nodes.png?raw=true)
 
 ## Installation
-Clone the repo into `ComfyUI/custom_nodes`:
+Clone the repo into `ComfyUI/custom_nodes`...
 
 ```
 cd ComfyUI/custom_nodes
 git clone https://github.com/spro/comfyui-latentmirror
 ```
+
+... and restart and refresh ComfyUI.
