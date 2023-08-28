@@ -4,8 +4,11 @@ Node to mirror a latent along the Y (vertical / left to right) or X (horizontal 
 
 Example nodes JSON: https://github.com/spro/comfyui-mirror/blob/main/examples/latent-mirror-example.json (using [Efficiency Nodes](https://github.com/LucianoCirino/efficiency-nodes-comfyui))
 
-![example results](https://github.com/spro/comfyui-latentmirror/blob/main/examples/example.png?raw=true)
 ![example nodes](https://github.com/spro/comfyui-latentmirror/blob/main/examples/nodes.png?raw=true)
+
+Example images (after an Img2Img step):
+
+![example results](https://github.com/spro/comfyui-latentmirror/blob/main/examples/example.png?raw=true)
 
 ## Installation
 
